@@ -5,12 +5,13 @@
 
 <h2>You can contact me via:</h2>
 <ul>
-<li>Linkedin: <a target="_blank" href="https://www.linkedin.com/in/luiz-felipe-da-silva-pereira-1590a1142/">Luiz Felipe</a></li>
-<li>Email: <a href="mailto:luizfspereira@outlook.com">luizfspereira@outlook.com<a/></li>
+  <li>Linkedin: <a target="_blank" href="https://www.linkedin.com/in/luiz-felipe-da-silva-pereira-1590a1142/">Luiz Felipe</a></li>
+  <li>Email: <a href="mailto:luizfspereira@outlook.com">luizfspereira@outlook.com<a/></li>
 </ul>
 
 <h2>Languages and Tools:</h2>
 <ul>
-<li>HTML5</li>
-<li>CSS</li>
+  <li>HTML5</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
 </ul>
