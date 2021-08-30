@@ -1,6 +1,6 @@
 <h1 align=center>Hello! I'm Luiz</h1>
 
-<p>:books: I'm currently finishing my engineering degree and also studying to become a front-end dev.</p>
+<p>:books: I obtained a degree in mechanical engineering and now I'm studying to become a fullstack developer.</p>
 <p>:bulb: At the moment I'm a beginner. But let me know if I can collaborate somehow on a project!</p>
 
 <h2>You can contact me via:</h2>
