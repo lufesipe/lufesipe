@@ -4,7 +4,7 @@
 <p>:bulb: At the moment I'm a beginner. But let me know if I can collaborate somehow on a project!</p>
 
 <h2>You can contact me via:</h2>
-<a target="_blank" href="https://www.linkedin.com/in/luiz-felipe-da-silva-pereira-1590a1142/"><img src="https://img.shields.io/badge/-Luiz%20Felipe-blue?logo=LinkedIn&link=https://www.linkedin.com/in/luiz-felipe-da-silva-pereira-1590a1142/"></a></li>
+<a target="_blank" href="https://www.linkedin.com/in/luiz-felipe-da-silva-pereira-1590a1142/"><img src="https://img.shields.io/badge/-Luiz%20Felipe-blue?logo=LinkedIn&link=www.linkedin.com/in/luiz-felipe-sp"></a></li>
 <a href="mailto:luizfspereira@outlook.com"><img src="https://img.shields.io/badge/-luizfspereira%40outlook.com-blue?logo=MicrosoftOutlook&link=mailto:luizfspereira@outlook.com"><a/>
 
 <h2>Languages and Tools:</h2>
