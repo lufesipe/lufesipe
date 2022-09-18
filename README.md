@@ -1,11 +1,32 @@
-<h1 align=center>Hello! I'm Luiz</h1>
+### Hey, Luiz here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<p>:books: I obtained a degree in mechanical engineering and now I'm studying to become a fullstack developer.</p>
-<p>:bulb: At the moment I'm a beginner. But let me know if I can collaborate somehow on a project!</p>
+#### :round_pushpin: I'm a frontend developer working from Brazil
 
-<h2>You can contact me via:</h2>
-<a target="_blank" href="https://www.linkedin.com/in/luiz-felipe-da-silva-pereira-1590a1142/"><img src="https://img.shields.io/badge/-Luiz%20Felipe-blue?logo=LinkedIn&link=https://www.linkedin.com/in/luiz-felipe-sp"></a></li>
+#### Currently involved with
+
+- :briefcase: Frontend at [EQI Investimentos](https://br.linkedin.com/company/eqi-investimentos)
+- :telescope: Open source contributions
+
+#### About me
+
+- :wrench: I've a bachelor's degree in mechanical engineering
+- :seedling: I've started as a full-stack developer
+- :sparkles: In my free-time, I love to play video games and to travel
+
+#### Some languages and technologies I've already used
+
+<a href="https://azure.microsoft.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure-logo" height="30"/>
+<a href="https://circleci.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain-wordmark.svg" alt="circleci-logo" height="36"/>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3-logo" height="36"/>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker-logo" height="36"/>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5-logo" height="36"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript-logo" height="30"/>
+<a href="https://jestjs.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest-logo" height="30"/>
+<a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs-logo" height="30"/>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs-logo" height="30"/>
+<a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react-logo" height="30"/>
+<a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript-logo" height="30"/>
+
+#### You can contact me via
+<a target="_blank" href="https://www.linkedin.com/in/luiz-felipe-sp/"><img src="https://img.shields.io/badge/-Luiz%20Felipe-blue?logo=LinkedIn&link=https://www.linkedin.com/in/luiz-felipe-sp"></a></li>
 <a href="mailto:luizfspereira@outlook.com"><img src="https://img.shields.io/badge/-luizfspereira%40outlook.com-blue?logo=MicrosoftOutlook&link=mailto:luizfspereira@outlook.com"><a/>
-
-<h2>Languages and Tools:</h2>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> <a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> <a href="https://pt-br.reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="react" width="40" height="40"/>
