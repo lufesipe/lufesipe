@@ -5,7 +5,6 @@
 #### Currently involved with
 
 - :briefcase: Frontend at [EQI Investimentos](https://br.linkedin.com/company/eqi-investimentos)
-- :telescope: Open source contributions
 
 #### About me
 
