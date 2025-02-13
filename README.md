@@ -9,7 +9,7 @@
 #### About me
 
 - :wrench: I've a bachelor's degree in mechanical engineering
-- :seedling: I've started as a full-stack developer
+- :seedling: I've started as a full-stack developer but found my place in the frontend
 - :sparkles: In my free-time, I love to play video games and to travel
 
 #### Some languages and technologies I've already used
